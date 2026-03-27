@@ -1,3 +1,5 @@
+<div align="center">
 ## Hi there i'm i 👋
 
-![Я](github-metrics.svg?v=2)
+![My Stack](github-metrics.svg?v=2)
+</div>
